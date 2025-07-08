@@ -8,9 +8,6 @@
 <img src="https://img.shields.io/badge/Vibe-Coding-orange" alt="Vibe Coding" style="margin:1px;">
 <img src="https://img.shields.io/badge/MCP-brown" alt="MCP" style="margin:1px;">
 <img src="https://img.shields.io/badge/RAG-Theorem%20and%20Building-purple" alt="RAG Theorem and Utilization" style="margin:1px;"><br>
-<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="GOOGLE SCHOLAR" style="margin:1px;">
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="NOTION" style="margin:1px;">
-<img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white" alt="OBSIDIAN" style="margin:1px;">
 </p>
 
 <h3 style="margin: 0;">😘 My experiences JUST for my satisfaction ...</h3>
