@@ -10,9 +10,10 @@
 <img src="https://img.shields.io/badge/RAG-Theorem%20and%20Building-purple" alt="RAG Theorem and Utilization" style="margin:1px;"><br>
 </p>
 
-<h3 style="margin: 0;">😘 Listing up my experiences JUST for my satisfaction ...</h3> Though, main at the front row !
+<h3 style="margin: 0;">😘 Listing up my experiences JUST for my satisfaction ...</h3>
 <p style="line-height: 1.6; margin-top: 4px;">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="margin:1px;">
+  <i>Though, main at the front row !</i><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="margin:1px;">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="DJANGO" style="margin:1px;">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TENSORFLOW" style="margin:1px;">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="JAVA" style="margin:1px;">
