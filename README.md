@@ -1,4 +1,4 @@
-<h2 style="margin: 0;">Hi there 🤚🏻 , This is AstronaCat(👩🏻‍🚀🐱) from South Korea 🇰🇷</h2>
+<h2 style="margin: 0;">🤚🏻 Hello there, This is AstronaCat(👩🏻‍🚀🐱) from South Korea 🇰🇷</h2>
 
 <h3 style="margin: 0;">👩🏻‍🎓 I'm interested in researches such as ... </h3>
 <p style="line-height: 1.6; margin-top: 4px;">
