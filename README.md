@@ -57,11 +57,10 @@
 </p>
 
 <h3 style="margin: 0;">📊 GitHub Stats ... should improve 🔥🔥🔥</h3>
-<div style="display: flex; align-items: flex-start; column-gap: 40px;">
-  <a href="https://github.com/AstronaCat/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=AstronaCat&contribs&count_private=true&show_icons=true&theme=cobalt" alt="👩🏻‍🚀🐱's GitHub stats" style="height: 200px;">
-  </a>
-  <a href="https://github.com/AstronaCat/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstronaCat&layout=compact" alt="👩🏻‍🚀🐱's Top Langs" style="height: 200px;">
-  </a>
-</div>
+<a href="https://github.com/AstronaCat/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=AstronaCat&contribs&count_private=true&show_icons=true&&theme=cobalt" alt="👩🏻‍🚀🐱's GitHub stats">
+</a>
+<h3 style="margin: 0;">👑 Top Langs</h3>
+<a href="https://github.com/AstronaCat/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstronaCat&layout=compact" alt="👩🏻‍🚀🐱's Top Langs">
+</a>
