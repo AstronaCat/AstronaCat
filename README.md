@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/RAG-Theorem%20and%20Building-purple" alt="RAG Theorem and Utilization" style="margin:1px;"><br>
 </p>
 
-<h3 style="margin: 0;">😘 My experiences JUST for my satisfaction ...</h3>
+<h3 style="margin: 0;">😘 Listing up my experiences JUST for my satisfaction ...</h3>
 <p style="line-height: 1.6; margin-top: 4px;">
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" style="margin:1px;">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" style="margin:1px;">
